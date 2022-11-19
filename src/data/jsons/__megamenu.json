@@ -1,0 +1,90 @@
+[
+  {
+    "Company": "Katz",
+    "City": "Nezamyslice",
+    "Contruction": "Plexiglass",
+    "Country": "Czech Republic",
+    "AppName": "Tresom",
+    "Department": "Marque",
+    "CarModel": "Fender",
+    "Corporate": "Guitar",
+    "category": "guitars",
+    "marque": "fender",
+    "state": "New",
+    "etat": "new"
+  },
+  {
+    "Company": "Livefish",
+    "City": "Herzliyya",
+    "Contruction": "Plexiglass",
+    "Country": "tunisia",
+    "AppName": "Hatity",
+    "Department": "Gibson",
+    "CarModel": "Gibson",
+    "Corporate": "Keys",
+    "category": "keyboards",
+    "marque": "gibson",
+    "state": "Used",
+    "etat": "used"
+  },
+  {
+    "Company": "Digitube",
+    "City": "Hongqi",
+    "Contruction": "Stone",
+    "Country": "China",
+    "AppName": "Otcom",
+    "Department": "State",
+    "CarModel": "Yamaha",
+    "Corporate": "Strings",
+    "category": "strings",
+    "marque": "yamaha"
+  },
+  {
+    "Company": "Midel",
+    "City": "Kamakura",
+    "Contruction": "Granite",
+    "Country": "Japan",
+    "AppName": "Daltfresh",
+    "Department": "Type",
+    "CarModel": "Harman",
+    "Corporate": "Drums",
+    "category": "drums",
+    "marque": "harman"
+  },
+  {
+    "Company": "Midel",
+    "City": "Kamakura",
+    "Contruction": "Granite",
+    "Country": "Japan",
+    "AppName": "Daltfresh",
+    "Department": "Type",
+    "CarModel": "Shure",
+    "Corporate": "Brass",
+    "category": "brass",
+    "marque": "shure"
+  },
+  {
+    "Company": "Midel",
+    "City": "Kamakura",
+    "Contruction": "Granite",
+    "Country": "Japan",
+    "AppName": "Daltfresh",
+    "Department": "Type",
+    "CarModel": "Steinway",
+    "Corporate": "Percussions",
+    "category": "percussions",
+    "marque": "steinway"
+  },
+  {
+    "Company": "Midel",
+    "City": "Kamakura",
+    "Contruction": "Granite",
+    "Country": "Japan",
+    "AppName": "Daltfresh",
+    "Department": "Type",
+    "CarModel": "Roland",
+    "Corporate": "Woodwind",
+    "category": "woodwind",
+    "marque": "roland"
+  }
+]

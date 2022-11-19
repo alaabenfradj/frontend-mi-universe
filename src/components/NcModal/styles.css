@@ -1,0 +1,33 @@
+@media (min-width: 768px) {
+    .product-card-details {
+        max-height: 640px;
+    }
+}
+
+
+
+.product-card-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+
+}
+
+.product-card-details-img {
+    width: 50rem;
+    max-height: 620px;
+    object-fit: cover;
+}
+
+.product-card-details-content {
+    width: 50rem;
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-group-item {
+    margin-top: 2rem
+}
